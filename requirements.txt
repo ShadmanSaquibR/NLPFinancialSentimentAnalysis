@@ -1,9 +1,11 @@
 streamlit
 
 nltk
-transformers
 plotly
-torch
 ipywidgets
 hf_xet
 anaconda
+transformers
+torch 
+torchvision 
+torchaudio
