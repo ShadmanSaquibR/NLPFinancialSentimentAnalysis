@@ -100,4 +100,4 @@ with st.sidebar:
 
     st.caption("Developed by Shadman Saquib Rahman")  
     st.caption("_The source code available on [GitHub](https://github.com/ShadmanSaquibR/SentimentAnalyserFinancialNewsandEarningsCall)_")
-
+nltk.download('punkt_tab')
