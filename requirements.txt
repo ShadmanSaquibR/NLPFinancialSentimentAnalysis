@@ -6,3 +6,4 @@ plotly
 torch
 ipywidgets
 hf_xet
+anaconda
